@@ -4,6 +4,12 @@ Lightshot Pro v2.8.0 is a modern Python desktop application for capturing screen
 This repository contains the **full source code**, allowing you to customize capture behavior, editor tools, UI themes, hotkeys, tray functionality, and more for your personal or professional screenshot needs.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="Lightshot Pro Main Interface" src="https://github.com/rogers-cyber/LightshotPro/blob/main/Lightshot%20Pro.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -142,4 +148,5 @@ Website: [https://github.com/rogers-cyber](https://github.com/rogers-cyber)
 
 Distributed as full source code.  
 You may use it for personal or commercial projects.  
+
 Redistribution, resale, or rebranding as a competing product is **not allowed**.
